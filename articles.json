@@ -47,8 +47,8 @@
     },
     {
       "id": "news-1",
-      "title": "News story headline number 1",
-      "subtitle": "",
+      "title": "Are our brains shrinking or growing?",
+      "subtitle": "test",
       "category": "News",
       "date": "2026-11-08",
       "authors": [
@@ -57,7 +57,7 @@
       "image": null,
       "body": [
         "First paragraph of the news story \"News story headline number 1\".",
-        "Second paragraph. Replace all of this sample text with the real story."
+        "Second paragraph.  "
       ]
     },
     {
@@ -77,7 +77,7 @@
       },
       "body": [
         "First paragraph of the news story \"News story headline number 2\".",
-        "Second paragraph. Replace all of this sample text with the real story."
+        "Second paragraph.  "
       ]
     },
     {
@@ -97,7 +97,7 @@
       },
       "body": [
         "First paragraph of the news story \"News story headline number 3\".",
-        "Second paragraph. Replace all of this sample text with the real story."
+        "Second paragraph.  "
       ]
     },
     {
@@ -112,7 +112,7 @@
       "image": null,
       "body": [
         "First paragraph of the news story \"News story headline number 4\".",
-        "Second paragraph. Replace all of this sample text with the real story."
+        "Second paragraph.  "
       ]
     },
     {
@@ -132,7 +132,7 @@
       },
       "body": [
         "First paragraph of the sports story \"Sports story headline number 1\".",
-        "Second paragraph. Replace all of this sample text with the real story."
+        "Second paragraph.  "
       ]
     },
     {
@@ -152,7 +152,7 @@
       },
       "body": [
         "First paragraph of the sports story \"Sports story headline number 2\".",
-        "Second paragraph. Replace all of this sample text with the real story."
+        "Second paragraph.  "
       ]
     },
     {
@@ -167,7 +167,7 @@
       "image": null,
       "body": [
         "First paragraph of the sports story \"Sports story headline number 3\".",
-        "Second paragraph. Replace all of this sample text with the real story."
+        "Second paragraph.  "
       ]
     },
     {
@@ -187,7 +187,7 @@
       },
       "body": [
         "First paragraph of the sports story \"Sports story headline number 4\".",
-        "Second paragraph. Replace all of this sample text with the real story."
+        "Second paragraph.  "
       ]
     },
     {
@@ -195,7 +195,7 @@
       "title": "Opinion story headline number 1",
       "subtitle": "",
       "category": "Opinion",
-      "date": "2026-11-05",
+      "date": "2026-10-05",
       "authors": [
         "Writer One"
       ],
@@ -207,7 +207,7 @@
       },
       "body": [
         "First paragraph of the opinion story \"Opinion story headline number 1\".",
-        "Second paragraph. Replace all of this sample text with the real story."
+        "Second paragraph.  "
       ]
     },
     {
@@ -222,7 +222,7 @@
       "image": null,
       "body": [
         "First paragraph of the opinion story \"Opinion story headline number 2\".",
-        "Second paragraph. Replace all of this sample text with the real story."
+        "Second paragraph.  "
       ]
     },
     {
@@ -242,7 +242,7 @@
       },
       "body": [
         "First paragraph of the opinion story \"Opinion story headline number 3\".",
-        "Second paragraph. Replace all of this sample text with the real story."
+        "Second paragraph.  "
       ]
     },
     {
@@ -262,7 +262,7 @@
       },
       "body": [
         "First paragraph of the opinion story \"Opinion story headline number 4\".",
-        "Second paragraph. Replace all of this sample text with the real story."
+        "Second paragraph.  "
       ]
     },
     {
@@ -277,7 +277,22 @@
       "image": null,
       "body": [
         "First paragraph of the opinion story \"Opinion story headline number 5\".",
-        "Second paragraph. Replace all of this sample text with the real story."
+        "Second paragraph.  "
+      ]
+    },
+    {
+      "id": "opinion-5",
+      "title": "Opinion story headline number 5",
+      "subtitle": "",
+      "category": "Arts",
+      "date": "2026-11-28",
+      "authors": [
+        "Writer One"
+      ],
+      "image": null,
+      "body": [
+        "First paragraph of the opinion story \"Opinion story headline number 5\".",
+        "Second paragraph.  "
       ]
     }
   ]
