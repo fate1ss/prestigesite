@@ -1,0 +1,6 @@
+/* Homepage extras (loaded after styles.css) */
+
+.more-link { display: inline-block; margin-top: 14px; font-weight: 700; color: var(--red); }
+.more-link:hover { text-decoration: underline; }
+
+.empty-message { color: var(--muted); padding: 12px 0; margin: 0; }
