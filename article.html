@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Article | The Prestige</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="article.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+
+  <!-- Top utility bar -->
+  <div class="topbar">
+    <div class="container topbar-inner">
+      <span id="today"></span>
+      <div class="topbar-links">
+        <a href="#">Donate</a>
+        <a href="#">Advertise</a>
+        <a href="#">Apply</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Masthead -->
+  <header class="masthead">
+    <div class="container">
+      <a href="index.html" class="logo">The Prestige</a>
+      <p class="tagline">Student-run newspaper</p>
+    </div>
+  </header>
+
+  <!-- Navigation -->
+  <nav class="main-nav" aria-label="Main">
+    <div class="container nav-inner">
+      <button class="menu-toggle" aria-expanded="false" aria-controls="nav-list">Menu</button>
+      <ul id="nav-list" class="nav-list">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="#">News</a></li>
+        <li><a href="#">Sports</a></li>
+        <li><a href="#">Arts &amp; Entertainment</a></li>
+        <li><a href="#">Opinion</a></li>
+        <li><a href="#">Multimedia</a></li>
+        <li><a href="#">About</a></li>
+      </ul>
+      <form class="search" role="search">
+        <label for="q" class="sr-only">Search</label>
+        <input id="q" type="search" placeholder="Search">
+        <button type="submit">Go</button>
+      </form>
+    </div>
+  </nav>
+
+  <!-- The article is built here by article.js -->
+  <main id="main" class="container">
+    <article id="article" class="article">
+      <p class="article-message">Loading…</p>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div>
+        <p class="footer-logo">The Prestige</p>
+        <p>University of California, Merced<br>Street address<br>City, State ZIP</p>
+      </div>
+      <div>
+        <p class="footer-head">Contact</p>
+        <p>News line: (000) 000-0000<br>Email: newsroom@example.com<br>Instagram: prestige</p>
+      </div>
+      <div>
+        <p class="footer-head">Get involved</p>
+        <p><a href="#">Apply to join the staff</a><br><a href="#">Donate</a><br><a href="#">Advertise</a></p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+  <script src="article.js"></script>
+</body>
+</html>

@@ -1,0 +1,42 @@
+{
+  "articles": [
+    {
+      "id": "first-story",
+      "title": "This is the headline of the first story",
+      "subtitle": "A one-sentence subtitle that adds context to the headline.",
+      "category": "News",
+      "date": "2026-10-26",
+      "authors": ["Writer One", "Writer Two"],
+      "image": {
+        "src": "https://picsum.photos/id/1067/1200/675",
+        "alt": "Describe the photo for screen readers",
+        "caption": "A caption describing what is in the photo.",
+        "credit": "Photographer Name"
+      },
+      "body": [
+        "This is the first paragraph of the story. Each paragraph is its own line in the list, so editors never have to write any HTML.",
+        "This is the second paragraph. Add as many as you need, separated by a comma.",
+        {
+          "image": "https://picsum.photos/id/1011/900/600",
+          "alt": "Describe this photo",
+          "caption": "An image in the middle of the story.",
+          "credit": "Photographer Name"
+        },
+        "A paragraph after the inline image. Keep going for as long as the story needs."
+      ]
+    },
+    {
+      "id": "second-story",
+      "title": "A second story with no photo yet",
+      "subtitle": "",
+      "category": "Sports",
+      "date": "2026-10-25",
+      "authors": ["Writer Three"],
+      "image": null,
+      "body": [
+        "When there is no image, the page shows the striped PHOTO placeholder instead.",
+        "An empty subtitle is fine too. The page simply leaves it out."
+      ]
+    }
+  ]
+}
