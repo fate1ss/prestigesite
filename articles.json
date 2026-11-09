@@ -6,7 +6,10 @@
       "subtitle": "A one-sentence subtitle that adds context to the headline.",
       "category": "News",
       "date": "2026-10-26",
-      "authors": ["Writer One", "Writer Two"],
+      "authors": [
+        "Writer One",
+        "Writer Two"
+      ],
       "image": {
         "src": "https://picsum.photos/id/1067/1200/675",
         "alt": "Describe the photo for screen readers",
@@ -23,7 +26,9 @@
           "credit": "Photographer Name"
         },
         "A paragraph after the inline image. Keep going for as long as the story needs."
-      ]
+      ],
+      "featured": true,
+      "excerpt": "A short summary of the story appears here. Two or three sentences that tell the reader why it matters."
     },
     {
       "id": "second-story",
@@ -31,11 +36,248 @@
       "subtitle": "",
       "category": "Sports",
       "date": "2026-10-25",
-      "authors": ["Writer Three"],
+      "authors": [
+        "Writer Three"
+      ],
       "image": null,
       "body": [
         "When there is no image, the page shows the striped PHOTO placeholder instead.",
         "An empty subtitle is fine too. The page simply leaves it out."
+      ]
+    },
+    {
+      "id": "news-1",
+      "title": "News story headline number 1",
+      "subtitle": "",
+      "category": "News",
+      "date": "2026-11-08",
+      "authors": [
+        "Writer One"
+      ],
+      "image": null,
+      "body": [
+        "First paragraph of the news story \"News story headline number 1\".",
+        "Second paragraph. Replace all of this sample text with the real story."
+      ]
+    },
+    {
+      "id": "news-2",
+      "title": "News story headline number 2",
+      "subtitle": "",
+      "category": "News",
+      "date": "2026-11-06",
+      "authors": [
+        "Writer Two"
+      ],
+      "image": {
+        "src": "https://picsum.photos/id/1015/1200/750",
+        "alt": "Sample photo",
+        "caption": "Sample caption.",
+        "credit": "Photographer"
+      },
+      "body": [
+        "First paragraph of the news story \"News story headline number 2\".",
+        "Second paragraph. Replace all of this sample text with the real story."
+      ]
+    },
+    {
+      "id": "news-3",
+      "title": "News story headline number 3",
+      "subtitle": "",
+      "category": "News",
+      "date": "2026-11-04",
+      "authors": [
+        "Writer Three"
+      ],
+      "image": {
+        "src": "https://picsum.photos/id/1016/1200/750",
+        "alt": "Sample photo",
+        "caption": "Sample caption.",
+        "credit": "Photographer"
+      },
+      "body": [
+        "First paragraph of the news story \"News story headline number 3\".",
+        "Second paragraph. Replace all of this sample text with the real story."
+      ]
+    },
+    {
+      "id": "news-4",
+      "title": "News story headline number 4",
+      "subtitle": "",
+      "category": "News",
+      "date": "2026-11-02",
+      "authors": [
+        "Writer Four"
+      ],
+      "image": null,
+      "body": [
+        "First paragraph of the news story \"News story headline number 4\".",
+        "Second paragraph. Replace all of this sample text with the real story."
+      ]
+    },
+    {
+      "id": "sports-1",
+      "title": "Sports story headline number 1",
+      "subtitle": "",
+      "category": "Sports",
+      "date": "2026-11-08",
+      "authors": [
+        "Writer One"
+      ],
+      "image": {
+        "src": "https://picsum.photos/id/1025/1200/750",
+        "alt": "Sample photo",
+        "caption": "Sample caption.",
+        "credit": "Photographer"
+      },
+      "body": [
+        "First paragraph of the sports story \"Sports story headline number 1\".",
+        "Second paragraph. Replace all of this sample text with the real story."
+      ]
+    },
+    {
+      "id": "sports-2",
+      "title": "Sports story headline number 2",
+      "subtitle": "",
+      "category": "Sports",
+      "date": "2026-11-07",
+      "authors": [
+        "Writer Two"
+      ],
+      "image": {
+        "src": "https://picsum.photos/id/1035/1200/750",
+        "alt": "Sample photo",
+        "caption": "Sample caption.",
+        "credit": "Photographer"
+      },
+      "body": [
+        "First paragraph of the sports story \"Sports story headline number 2\".",
+        "Second paragraph. Replace all of this sample text with the real story."
+      ]
+    },
+    {
+      "id": "sports-3",
+      "title": "Sports story headline number 3",
+      "subtitle": "",
+      "category": "Sports",
+      "date": "2026-11-03",
+      "authors": [
+        "Writer Three"
+      ],
+      "image": null,
+      "body": [
+        "First paragraph of the sports story \"Sports story headline number 3\".",
+        "Second paragraph. Replace all of this sample text with the real story."
+      ]
+    },
+    {
+      "id": "sports-4",
+      "title": "Sports story headline number 4",
+      "subtitle": "",
+      "category": "Sports",
+      "date": "2026-10-30",
+      "authors": [
+        "Writer Four"
+      ],
+      "image": {
+        "src": "https://picsum.photos/id/1043/1200/750",
+        "alt": "Sample photo",
+        "caption": "Sample caption.",
+        "credit": "Photographer"
+      },
+      "body": [
+        "First paragraph of the sports story \"Sports story headline number 4\".",
+        "Second paragraph. Replace all of this sample text with the real story."
+      ]
+    },
+    {
+      "id": "opinion-1",
+      "title": "Opinion story headline number 1",
+      "subtitle": "",
+      "category": "Opinion",
+      "date": "2026-11-05",
+      "authors": [
+        "Writer One"
+      ],
+      "image": {
+        "src": "https://picsum.photos/id/1011/1200/750",
+        "alt": "Sample photo",
+        "caption": "Sample caption.",
+        "credit": "Photographer"
+      },
+      "body": [
+        "First paragraph of the opinion story \"Opinion story headline number 1\".",
+        "Second paragraph. Replace all of this sample text with the real story."
+      ]
+    },
+    {
+      "id": "opinion-2",
+      "title": "Opinion story headline number 2",
+      "subtitle": "",
+      "category": "Opinion",
+      "date": "2026-11-03",
+      "authors": [
+        "Writer Two"
+      ],
+      "image": null,
+      "body": [
+        "First paragraph of the opinion story \"Opinion story headline number 2\".",
+        "Second paragraph. Replace all of this sample text with the real story."
+      ]
+    },
+    {
+      "id": "opinion-3",
+      "title": "Opinion story headline number 3",
+      "subtitle": "",
+      "category": "Opinion",
+      "date": "2026-11-01",
+      "authors": [
+        "Writer Three"
+      ],
+      "image": {
+        "src": "https://picsum.photos/id/1016/1200/750",
+        "alt": "Sample photo",
+        "caption": "Sample caption.",
+        "credit": "Photographer"
+      },
+      "body": [
+        "First paragraph of the opinion story \"Opinion story headline number 3\".",
+        "Second paragraph. Replace all of this sample text with the real story."
+      ]
+    },
+    {
+      "id": "opinion-4",
+      "title": "Opinion story headline number 4",
+      "subtitle": "",
+      "category": "Opinion",
+      "date": "2026-10-29",
+      "authors": [
+        "Writer Four"
+      ],
+      "image": {
+        "src": "https://picsum.photos/id/1018/1200/750",
+        "alt": "Sample photo",
+        "caption": "Sample caption.",
+        "credit": "Photographer"
+      },
+      "body": [
+        "First paragraph of the opinion story \"Opinion story headline number 4\".",
+        "Second paragraph. Replace all of this sample text with the real story."
+      ]
+    },
+    {
+      "id": "opinion-5",
+      "title": "Opinion story headline number 5",
+      "subtitle": "",
+      "category": "Opinion",
+      "date": "2026-10-27",
+      "authors": [
+        "Writer One"
+      ],
+      "image": null,
+      "body": [
+        "First paragraph of the opinion story \"Opinion story headline number 5\".",
+        "Second paragraph. Replace all of this sample text with the real story."
       ]
     }
   ]
